@@ -1,3 +1,3 @@
 # demo
 
-Git hub beginers learning . 
+Learning Git hub. 
